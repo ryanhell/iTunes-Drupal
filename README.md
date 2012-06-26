@@ -19,6 +19,6 @@ we should not be using HTML and CSS soley as a way of creating a banner for stat
 is the client will obviously need to add or modify content themselves as new vids are created. Also, views does a nicer 
 job with media types, and we may be able to achieve video inside of video using views and slideshow.
 
-additional resources:
+additional resources:<br>
 http://www.brightwebsitedesign.com/how-to-install-views-slideshow-module-on-drupal7
 http://www.codeinsects.com/views-slideshow-in-drupal-7.html
