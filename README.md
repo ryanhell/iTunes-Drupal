@@ -3,13 +3,22 @@ iTunes-Drupal
 
 The Who: Client is an online collaberation and educational center, via Drupal 6. 
 
-The What : This client needs/wants to be able to offer podcast viea Vimeo and Podcast on iTunes.
+The What : This client needs/wants to be able to offer podcast using Vimeo and Podcast on iTunes.
 
 Where
 on itunes, via Vimeo
+inside Drupal 6 using Views, etc.
+
 
 Where Else
-On a Drupal 6.x site. So inside a banner. Primary/main inside the left 2/3's of banner, 3 along right 1/3's.
-SEE WIREFRAMES
+On a Drupal 6.x site. So inside a banner. Primary/main inside the left 2/3's of banner, 3 thumbnails along right 1/3's.
+SEE WIREFRAMES. We should try to have video inside of video, I think this is possible using Views and choosing the thumbnail image type as video possibly, but I need to see. 
 
-this project is somewhat defined here, http://www.brightwebsitedesign.com/how-to-install-views-slideshow-module-on-drupal7
+Note
+we should not be using HTML and CSS soley as a way of creating a banner for static video thumbnails. Reason for this
+is the client will obviously need to add or modify content themselves as new vids are created. Also, views does a nicer 
+job with media types, and we may be able to achieve video inside of video using views and slideshow.
+
+additional resources:
+http://www.brightwebsitedesign.com/how-to-install-views-slideshow-module-on-drupal7
+http://www.codeinsects.com/views-slideshow-in-drupal-7.html
