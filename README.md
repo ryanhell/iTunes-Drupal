@@ -1,9 +1,9 @@
 iTunes-Drupal
 =============
 
-The Who: Client is an online collaberation and educational center, via Drupal 6. <br>
+The Who : <br>Client is an online collaberation and educational center, via Drupal 6. <br>
 
-The What : This client needs/wants to be able to offer podcast using Vimeo and Podcast on iTunes.<br>
+The What : <br>This client needs/wants to be able to offer podcast using Vimeo and Podcast on iTunes.<br>
 
 Where<br>
 on itunes, via Vimeo
