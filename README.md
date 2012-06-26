@@ -12,7 +12,9 @@ inside Drupal 6 using Views, etc.
 
 Where Else<br>
 On a Drupal 6.x site. So inside a banner. Primary/main inside the left 2/3's of banner, 3 thumbnails along right 1/3's.
-SEE WIREFRAMES. We should try to have video inside of video, I think this is possible using Views and choosing the thumbnail image type as video possibly, but I need to see. 
+SEE WIREFRAMES. We should try to have video inside of video, I think this is possible using Views and choosing the thumbnail image type as video possibly, but I need to see.
+<IMG SRC="http://nwtronix.com/images/wireframe1.png" ALT="Wireframe 1" WIDTH=32 HEIGHT=32>
+<IMG SRC="http://nwtronix.com/images/wireframe2.png" ALT="Wireframe 2" WIDTH=32 HEIGHT=32>
 
 Note<br>
 we should not be using HTML and CSS soley as a way of creating a banner for static video thumbnails. Reason for this
